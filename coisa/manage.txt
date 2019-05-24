@@ -4,4 +4,4 @@ mania
 FEATURE/Coisa melhorada
 arq
 bolsaMenino
-menino
+meninoCoisa
