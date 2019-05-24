@@ -1,6 +1,7 @@
 hoje
 coisas
 mania
+FEATURE/Coisa melhorada
 arq
 bolsa
 menino
