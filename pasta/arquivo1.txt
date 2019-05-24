@@ -5,3 +5,4 @@ trago
 verdade
 isso
 taokei
+ArquivoPasta
