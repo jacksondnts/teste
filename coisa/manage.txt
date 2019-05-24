@@ -3,5 +3,5 @@ coisas
 mania
 FEATURE/Coisa melhorada
 arq
-bolsa
+bolsaMenino
 menino
